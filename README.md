@@ -6,3 +6,4 @@ Dalam projek ini terdapat pembagian tugas:
 * **Iwang**: Membuat coding kategori C
 * **Dion**: Membuat coding kategori D
 * **Juan**: Mengerjakan penjilidan
+* **Fikri, Iwang, Rangga**: Membuat Infografis
